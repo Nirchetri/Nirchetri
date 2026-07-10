@@ -200,7 +200,7 @@ June 2022 – June 2025 | **CGPA: 8.50**
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Nirchetri/Nirchetri/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Nirchetri/Nirchetri/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
 </p>
 
