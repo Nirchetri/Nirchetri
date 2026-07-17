@@ -34,9 +34,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
 </a>
 
-<a href="https://github.com/Nirchetri">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-</a>
+
 
 </p>
 
