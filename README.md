@@ -174,13 +174,13 @@ June 2022 – June 2025 | **CGPA: 8.50**
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirchetri&theme=midnight_purple" alt="Nikhil's GitHub statistics"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirchetri&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirchetri&theme=midnight_purple" alt="Most used languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirchetri&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Nirchetri&theme=midnight-purple&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Nirchetri&theme=tokyonight&hide_border=true" />
 
 </div>
 
