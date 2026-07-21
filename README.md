@@ -168,25 +168,6 @@ June 2022 – June 2025 | **CGPA: 8.50**
 🔹 REST API and real-time communication projects  
 🔹 Clean, reusable, and responsive UI components
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirchetri&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirchetri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nirchetri&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📈 Activity Graph
 
