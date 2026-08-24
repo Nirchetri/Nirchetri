@@ -41,7 +41,7 @@ nikhil@developer:~$ whoami
 
 Name        : Nikhil Chetry
 Role        : Aspiring Data Analyst | Software Engineering Background
-Education   : B.Sc. Computer Science | 8.50 CGPA
+Education   : MCA (Pursuing) | B.Sc. Computer Science | 8.50 CGPA
 Location    : Navi Mumbai, India
 
 Current Focus
@@ -78,7 +78,6 @@ Aspiring Data Analyst with a strong technical foundation from my background as a
 <img src="https://img.shields.io/badge/Data_Cleaning-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Analysis-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Visualization-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spreadsheets-8B5CF6?style=for-the-badge"/>
 
 </div>
 
@@ -93,7 +92,7 @@ Aspiring Data Analyst with a strong technical foundation from my background as a
 
 # 🎓 Certifications
 
-- **Google Data Analytics Professional Certificate** — Google (9 courses covering spreadsheets, SQL, Python, Tableau, and the full data analysis lifecycle)
+- **Google Data Analytics Professional Certificate** — Google (9 courses covering spreadsheets, SQL, R, Tableau, and the full data analysis lifecycle)
 - **Google Data Analytics Capstone: Complete a Case Study** — Google
 
 ---
@@ -123,7 +122,7 @@ Exploratory Data Analysis of the Sample Superstore dataset using Python, Pandas,
 
 ## LinkKiwi Pvt. Ltd. — Software Engineer
 
-**June 2023 – Present**
+**August 2024 – 2025**
 
 - Developed full-stack features using MongoDB, Express.js, React.js, and Node.js.
 - Built and maintained responsive interfaces using React and Tailwind CSS.
@@ -135,6 +134,11 @@ Exploratory Data Analysis of the Sample Superstore dataset using Python, Pandas,
 ---
 
 # 🎓 Education
+
+## Manipal University Jaipur (Online)
+
+**Master of Computer Applications (MCA)**
+Currently Pursuing
 
 ## MGM's College of Computer Science & Technology
 
