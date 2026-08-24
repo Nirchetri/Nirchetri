@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,15:17072B,40:3B0764,65:6D28D9,100:8B5CF6&text=Nikhil%20Chetry&fontSize=52&fontColor=F9F6EE&fontAlignY=38"/>
@@ -8,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;MERN+Stack+Developer;Aspiring+Data+Analyst;React+%26+Firebase+Developer;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Python;Turning+Data+Into+Insights;Software+Engineering+Background;Always+Learning...)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,8 +32,6 @@
 <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
 </a>
 
-
-
 </p>
 
 # 💻 About Me
@@ -44,28 +40,81 @@
 nikhil@developer:~$ whoami
 
 Name        : Nikhil Chetry
-Role        : Software Engineer | Aspiring Data Analyst
+Role        : Aspiring Data Analyst | Software Engineering Background
 Education   : B.Sc. Computer Science | 8.50 CGPA
 Location    : Navi Mumbai, India
 
 Current Focus
-├── Data Analytics
-├── MERN Stack Development
-├── SQL and MySQL
-├── React and Firebase
+├── Data Analytics (SQL, Excel, Power BI, Tableau, Python)
+├── Exploratory Data Analysis & Visualization
+├── Google Data Analytics Professional Certificate
 └── Problem Solving
 
 Goals
 ├── Turn raw data into useful insights
-├── Build scalable and user-friendly applications
-└── Grow through real-world projects
+├── Support data-driven decision-making
+└── Grow through real-world analytics projects
 ```
 
 ---
 
 # 👨‍💻 Professional Summary
 
-Software Engineer with experience building smooth, responsive, and user-friendly web applications using the MERN stack. Currently expanding into data analytics with a focus on spreadsheets, SQL, data cleaning, analysis, and visualization to support data-driven decisions.
+Aspiring Data Analyst with a strong technical foundation from my background as a Software Engineer building full-stack web applications. Currently focused on data analytics — SQL, Excel, Power BI, Tableau, and Python — for data cleaning, analysis, and visualization to support data-driven decisions. Completed the Google Data Analytics Professional Certificate.
+
+---
+
+# 📊 Data Analyst Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+- Spreadsheet formulas, functions, sorting, filtering, and data tables
+- SQL queries for extracting, filtering, joining, and summarizing data
+- Data cleaning, validation, and error handling
+- Exploratory analysis and pattern identification
+- Charts, dashboards, and clear communication of insights
+- Structured thinking and data-driven decision-making
+
+---
+
+# 🎓 Certifications
+
+- **Google Data Analytics Professional Certificate** — Google (9 courses covering spreadsheets, SQL, R, Tableau, and the full data analysis lifecycle)
+- **Google Data Analytics Capstone: Complete a Case Study** — Google
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Superstore Sales Analysis (EDA)
+
+Exploratory Data Analysis of the Sample Superstore dataset using Python, Pandas, and Matplotlib — identifying sales trends, profit patterns, and category-level insights.
+🔗 [View Project](https://github.com/Nirchetri/Superstore_Sales_Analysis_EDA.ipynb)
+
+## LinkKiwi
+
+- Developed a service-based web platform using React, Tailwind CSS, and Firebase.
+- Built reusable components for a consistent and responsive user experience.
+- Integrated real-time features to improve client engagement and service interaction.
+
+## Meetify
+
+- Built a Zoom-inspired real-time video conferencing application.
+- Used React, Tailwind CSS, ShadCN, Stream, and Clerk.
+- Implemented video calls, messaging, authentication, and secure user management.
 
 ---
 
@@ -88,31 +137,8 @@ Software Engineer with experience building smooth, responsive, and user-friendly
 
 ## MGM's College of Computer Science & Technology
 
-**Bachelor of Science in Computer Science**  
+**Bachelor of Science in Computer Science**
 June 2022 – June 2025 | **CGPA: 8.50**
-
----
-
-# 📊 Data Analyst Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Cleaning-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analysis-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spreadsheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-</div>
-
-- Spreadsheet formulas, functions, sorting, filtering, and data tables
-- SQL queries for extracting, filtering, joining, and summarizing data
-- Data cleaning, validation, and error handling
-- Exploratory analysis and pattern identification
-- Charts, dashboards, and clear communication of insights
-- Structured thinking and data-driven decision-making
 
 ---
 
@@ -143,31 +169,14 @@ June 2022 – June 2025 | **CGPA: 8.50**
 
 ---
 
-# 🚀 Featured Projects
-
-## LinkKiwi
-
-- Developed a service-based web platform using React, Tailwind CSS, and Firebase.
-- Built reusable components for a consistent and responsive user experience.
-- Integrated real-time features to improve client engagement and service interaction.
-
-## Meetify
-
-- Built a Zoom-inspired real-time video conferencing application.
-- Used React, Tailwind CSS, ShadCN, Stream, and Clerk.
-- Implemented video calls, messaging, authentication, and secure user management.
-
----
-
 # 🎯 Currently Building & Learning
 
-🔹 Data analysis projects using Excel and SQL  
-🔹 Interactive dashboards and data visualizations  
-🔹 Advanced spreadsheet functions and data cleaning  
-🔹 Full-stack MERN applications  
-🔹 REST API and real-time communication projects  
+🔹 Data analysis projects using SQL, Excel, and Python
+🔹 Interactive dashboards using Power BI and Tableau
+🔹 Advanced spreadsheet functions and data cleaning
+🔹 Microsoft SQL Server
+🔹 Full-stack MERN applications
 🔹 Clean, reusable, and responsive UI components
-
 
 ## 📈 Activity Graph
 
