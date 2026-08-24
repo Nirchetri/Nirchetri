@@ -78,6 +78,7 @@ Aspiring Data Analyst with a strong technical foundation from my background as a
 <img src="https://img.shields.io/badge/Data_Cleaning-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Analysis-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Visualization-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spreadsheets-8B5CF6?style=for-the-badge"/>
 
 </div>
 
