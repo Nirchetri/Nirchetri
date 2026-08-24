@@ -92,7 +92,7 @@ Aspiring Data Analyst with a strong technical foundation from my background as a
 
 # 🎓 Certifications
 
-- **Google Data Analytics Professional Certificate** — Google (9 courses covering spreadsheets, SQL, R, Tableau, and the full data analysis lifecycle)
+- **Google Data Analytics Professional Certificate** — Google (9 courses covering spreadsheets, SQL, Python, Tableau, and the full data analysis lifecycle)
 - **Google Data Analytics Capstone: Complete a Case Study** — Google
 
 ---
